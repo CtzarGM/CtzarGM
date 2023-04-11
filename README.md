@@ -1,4 +1,4 @@
-# ✋Welcome CtzarGM profile🤚
+# ✋Welcome to CtzarGM profile🤚
 
 Hello there! I'm Cesar, a Full-Stack Web Developer in training
 
