@@ -3,7 +3,7 @@
 Hello there! I'm Cesar, a Full-Stack Web Developer in training
 
 ## About me: 
-- [SPICED Academy Berlin](https://www.spiced-academy.com/de/berlin)🌶 graduate	<img src="https://coursereport-production.imgix.net/uploads/school/logo/323/original/spiced-social-media-icon.png?w=200&h=200" width="40"/> 🌶
+- [SPICED Academy Berlin](https://www.spiced-academy.com/de/berlin)🌶 <img src="https://coursereport-production.imgix.net/uploads/school/logo/323/original/spiced-social-media-icon.png?w=200&h=200" width="40"/> 🌶 graduate
 - Graphic designer experience🖌📐
 - In love with Japanese everything⛩️
 - Gaming enthusiast🎮
